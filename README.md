@@ -1,1 +1,3 @@
-My personal website backend under development.
+My personal website backend using Spring Boot
+
+--------------------------------------under development--------------------------------------
